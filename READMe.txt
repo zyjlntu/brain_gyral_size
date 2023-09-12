@@ -18,4 +18,4 @@ python3 measure_scale_in_pixels.py scale_bar.png scale_bar_output.png
 To measure gyral size in pixels:
 python3 measure_gyral_size_in_pixels.py brain_sample.png brain_sample_output.png
 
-The output values from both programs can be used along with the scale to obtain the gyral size.
+The output values from the two programs should be used in conjunction with the scale to determine the gyral size.
